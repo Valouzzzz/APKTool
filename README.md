@@ -5,9 +5,9 @@ Allows automatic installation of APKTool and Java, APK decompilation, recompilat
 
 ## 🚀 Features
 
-- Automatic installation of `apktool` and OpenJDK 17
-- Easy APK decompilation
-- Recompilation and automatic signing of modified APKs
+- **Automatic installation** of `apktool` and OpenJDK 17
+- **Easy APK decompilation**
+- **Recompilation** and **automatic signing** of modified APKs
 - Simple interface using PowerShell and XAML
 
 ## 📁 Requirements
