@@ -23,3 +23,4 @@ Allows automatic installation of APKTool and Java, APK decompilation, recompilat
    ```bash
    git clone https://github.com/Valouzzzz/apktool.git
    cd apktool
+   ```
