@@ -1,4 +1,3 @@
-```markdown
 # 📦 APKTool GUI for Windows
 
 A minimal PowerShell-based graphical interface to simplify the use of APKTool on Windows.  
